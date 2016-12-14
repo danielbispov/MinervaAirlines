@@ -1,4 +1,4 @@
-![SanchaCppParser](https://github.com/danielbispov/MinervaAirlines/blob/master/gicon.png?raw=true)
+![SanchaCppParser](https://github.com/danielbispov/MinervaAirlines/blob/master/img/airline.png?raw=true)
 ## Bem Vindo(a) ao MinervaAirlines
 
 #### Equipe
